@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl -I HEAD "http://localhost:8080/v1/tasks/1"

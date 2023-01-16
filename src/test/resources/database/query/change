@@ -1,0 +1,7 @@
+#!/bin/bash
+
+curl -v -X PUT http://localhost:8080/v1/tasks \
+-H "Content-Type: application/json; charset=UTF-8" \
+-d @- << EOF
+{"id":1, "text":"Первая задача - изменена"}
+EOF

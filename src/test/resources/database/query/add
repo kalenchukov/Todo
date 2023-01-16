@@ -1,0 +1,7 @@
+#!/bin/bash
+
+curl -v -X POST http://localhost:8080/v1/tasks \
+-H "Content-Type: application/json; charset=UTF-8" \
+-d @- << EOF
+{"text":"Первая задача"}
+EOF
