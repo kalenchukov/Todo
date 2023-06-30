@@ -33,8 +33,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @ComponentScan(basePackages = {
 	"dev.kalenchukov.todo.controllers",
 	"dev.kalenchukov.todo.repositories",
-	"dev.kalenchukov.todo.services",
-	"dev.kalenchukov.todo._utilities"
+	"dev.kalenchukov.todo.services"
 })
 public class Config
 {
