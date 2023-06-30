@@ -1,4 +1,6 @@
 /.idea
+/.attach_pid*
+/.jpb
 /.mvn
 /out
 /*.iml
