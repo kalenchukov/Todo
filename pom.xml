@@ -39,7 +39,7 @@
 	<version>1.0.0</version>
 
 	<name>Todo</name>
-	<description>Список дел.</description>
+	<description>Сервис задач.</description>
 	<url>https://github.com/kalenchukov/Todo</url>
 
 	<licenses>
