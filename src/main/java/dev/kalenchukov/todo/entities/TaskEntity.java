@@ -25,7 +25,7 @@
 package dev.kalenchukov.todo.entities;
 
 import dev.kalenchukov.todo.entities.converters.StateConverter;
-import dev.kalenchukov.todo.resources.TaskState;
+import dev.kalenchukov.todo.types.TaskState;
 import lombok.*;
 
 import javax.persistence.*;

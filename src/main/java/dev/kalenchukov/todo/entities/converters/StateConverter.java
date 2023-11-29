@@ -24,7 +24,7 @@
 
 package dev.kalenchukov.todo.entities.converters;
 
-import dev.kalenchukov.todo.resources.TaskState;
+import dev.kalenchukov.todo.types.TaskState;
 import org.jetbrains.annotations.NotNull;
 
 import javax.persistence.AttributeConverter;

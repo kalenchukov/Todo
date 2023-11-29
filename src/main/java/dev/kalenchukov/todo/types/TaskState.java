@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package dev.kalenchukov.todo.resources;
+package dev.kalenchukov.todo.types;
 
 import org.jetbrains.annotations.NotNull;
 

@@ -26,7 +26,7 @@ package dev.kalenchukov.todo.services;
 
 import dev.kalenchukov.todo.entities.TaskEntity;
 import dev.kalenchukov.todo.repositories.TaskRepositories;
-import dev.kalenchukov.todo.resources.TaskState;
+import dev.kalenchukov.todo.types.TaskState;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
